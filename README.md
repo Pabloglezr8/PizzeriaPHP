@@ -1,6 +1,6 @@
 # Gestión de pizzería
 
 **Autor:** Pablo González Ruiz
-**GitHub:**
+**GitHub:** https://github.com/Pabloglezr8/PizzeriaPHP.git
 
 # PizzeriaPHP
